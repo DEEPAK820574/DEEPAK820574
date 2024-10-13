@@ -8,13 +8,13 @@
   💬 Ask Me About: HTML, CSS, JavaScript, React, Tailwind CSS, GSAP, Node.js, Express.js, MongoDB, Data Structures & Algorithms<br/>
   📫 How to Reach Me: deepak820574@gmail.com
 <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/deepak-kumar-8654b4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepak-kumar-8654b4253" height="30" width="40" /></a>
 <a href="https://instagram.com/_deepak_074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deepak_074" height="30" width="40" /></a>
 </p>
 <hr/>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin: 10px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -46,4 +46,5 @@
 </p>
 
 <hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak820574&show_icons=true&locale=en" alt="deepak820574" /></p>make this readme file more intractive remove the unnecceasy thing which make bad impressing on recurtor or any visiter about the profile add skill like tailwind css ,data structure and algorithm and in currently learning section only add threejs for animation and make it coloreful
+<br/>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak820574&show_icons=true&locale=en" alt="deepak820574" /></p>
