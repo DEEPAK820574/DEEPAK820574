@@ -4,8 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak820574" alt="deepak820574" /></a> </p>
 
 🌟 About Me
-  🌱 Currently Learning: Three.js for 3D animations
-  💬 Ask Me About: HTML, CSS, JavaScript, React, Tailwind CSS, GSAP, Node.js, Express.js, MongoDB, Data Structures & Algorithms
+  🌱 Currently Learning: Three.js for 3D animations<br/>
+  💬 Ask Me About: HTML, CSS, JavaScript, React, Tailwind CSS, GSAP, Node.js, Express.js, MongoDB, Data Structures & Algorithms<br/>
   📫 How to Reach Me: deepak820574@gmail.com
 <hr/>
 <h3 align="left">Connect with me:</h3>
